@@ -5,6 +5,10 @@ The primary goal of this flow is to optimize the operation of systems that utili
 <img width="1009" height="820" alt="1" src="https://github.com/user-attachments/assets/fdad6e60-2157-4ad1-8be7-5f9c7a737f9a" />
 <img width="1030" height="1548" alt="2" src="https://github.com/user-attachments/assets/d6cff8b5-1909-491d-aa70-fa404a571392" />
 
+#### Cancellation of the old request approval teams because a new request of the same kind has been sent - reminder
+<img width="1103" height="146" alt="image" src="https://github.com/user-attachments/assets/2efe85ec-864f-4157-be43-ad7ed9428176" />
+
+
 
 ## Process diagram
 
